@@ -1,7 +1,6 @@
 🎓 Student Management System (C++)
 
 This is a Student Management System developed in C++ using basic programming concepts such as arrays, functions, loops, and conditional statements. The program runs on the console and allows users to manage student records easily.
-
 The system stores student information like Name, Roll Number, Course, Class, and Contact Number. Users can add, view, search, update, and delete student records through a menu-driven interface.
 
 
@@ -21,6 +20,7 @@ Delete all records
 
 Simple menu-driven interface
 
+
 🛠 Technologies Used
 
 Language: C++
@@ -37,6 +37,7 @@ Conditional statements
 
 Basic data management
 
+
 📋 How It Works
 
 The program shows a menu with different options.
@@ -47,6 +48,7 @@ Based on the selection, the system performs operations like adding, searching, u
 
 All records are stored temporarily using arrays during program execution.
 
+
 📌 Example Menu
 Press 1 to enter data
 Press 2 to show data
@@ -54,6 +56,8 @@ Press 3 to search data
 Press 4 to update data
 Press 5 to delete data
 Press 6 to exit
+
+
 🎯 Learning Objectives
 
 This project helps in understanding:
@@ -65,6 +69,7 @@ Menu-driven programs
 Data storage using arrays
 
 CRUD operations (Create, Read, Update, Delete)
+
 
 🚀 Future Improvements
 
